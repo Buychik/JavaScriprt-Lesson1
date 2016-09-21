@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset ="utf-8">
+	<title>LessonJS1</title>
+	<script>
+	alert('Привет, JavaScript!');
+	</script>
+</head>
+<body>
+	
+</body>
+</html>
